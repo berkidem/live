@@ -37,15 +37,13 @@ body {
   border: 1pt solid #586e75;
   padding: 1em;
 }
-option,
+ddmenu,
 a {
   color: #cb4b16;
 }
-option,
 a:visited {
   color: #dc322f;
 }
-option,
 a:hover {
   color: #6c71c4;
 }
@@ -77,4 +75,3 @@ a:active,
 a:hover {
   outline: 0;
 }
-ddmenu {color: white};
