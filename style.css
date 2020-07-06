@@ -1,0 +1,77 @@
+/***********************************************************************************************************************/
+/***********************************************************************************************************************
+	    file:  style.css
+	contents:  Job market website based on Bruno Salcedo's template.
+	  author:  Berk Idem
+	    date:  February 2020
+	 version:  1.0
+***********************************************************************************************************************/
+/***********************************************************************************************************************/
+/* Legend for the bottom of the page*/
+#contents:after{content: "Department of Economics, Penn State "}
+/***********************************************************************************************************************/
+/**************************************************************** font *************************************************/
+/* To change the font go to google.com/fonts and follow the instructions*/
+body{ font-family: 'Lato', sans-serif; font-weight: 500;} /* Body*/
+h1 {font-weight: 700;} /* Title */
+/***********************************************************************************************************************/
+/************************************************************** color ***************************************************/
+/* 3 color scheme: #777 (grey) for links and menu, #68a for links, tomato for highlights*/
+
+
+
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+
+
+  background-color: #073642;
+  color: #839496;
+  margin: 1em;
+}
+body {
+  background-color: #002b36;
+  margin: 0 auto;
+  max-width: 23cm;
+  border: 1pt solid #586e75;
+  padding: 1em;
+}
+
+a {
+  color: #cb4b16;
+}
+a:visited {
+  color: #dc322f;
+}
+a:hover {
+  color: #6c71c4;
+}
+h1 {
+  color: #268bd2;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #2aa198;
+}
+
+
+
+head {
+  background-color: #586e75;
+}
+
+<!--not sure -->
+
+
+a:focus {
+  outline: thin dotted;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
