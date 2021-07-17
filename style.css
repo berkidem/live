@@ -41,12 +41,15 @@ ddmenu,
 a {
   color: #6c71c4;
 }
+ddmenu,
 a:visited {
   color: #6c71c4;
 }
+ddmenu,
 a:hover {
   color: #dc322f;
 }
+ddmenu,
 h1 {
   color: #268bd2;
 }
